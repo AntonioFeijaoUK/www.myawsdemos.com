@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to MyAWSDemos.com
+
+!!! This is a personal page, opinions expressed are mine. !!!
+
+I will use this to centralise my demos. I will try to cover as much as possible of the AWS Services [https://aws.amazon.com/products/](https://aws.amazon.com/products/)
+
+
+
+
+---
 
 You can use the [editor on GitHub](https://github.com/feijaouk/myawsdemos.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
