@@ -1,4 +1,4 @@
-## Welcome to [My AWS Demos](www.myawsdemos.com)
+## Welcome to [My AWS Demos](http://www.myawsdemos.com)
 
 !!! This is a personal page, opinions expressed are mine. !!!
 
